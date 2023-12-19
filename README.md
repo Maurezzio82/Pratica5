@@ -29,5 +29,3 @@ Por esse motivo, os valores obtidos na requisição da Rasp Pi precisam ser reco
 Finalmente, o valor convertido em float (representando tensão de 0 a 5V) é printado nos terminais da Rasp Pi e do Arduino IDE. Nesse último o valor inteiro da leitura (de 0 a 1023) também é printado.
 
 **Obs: Os códigos utilizados na prática estão presentes neste repositório com comentários que melhor detalham o funcionamento.**
-
-**PS: na linha 100 em diante de cada código tem uma mensagem muito importante**
